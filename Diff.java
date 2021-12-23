@@ -3,7 +3,7 @@ public class Diff {
         int a = 10;
         int b = 7;
 
-        System.out.println("The difference is " + (a-b));
+        System.out.println("The difference of the two numbers is " + (a-b));
     }
     
 }
